@@ -1,6 +1,6 @@
 # Predicting age from DNA methylation
 
-Course project for BERN02 (Computational Science: Reproducible Data Science and Statistical Learning), Lund University.
+Project for BERN02, Lund University.
 
 ## Motivation
 DNA methylation, a chemical mark on DNA, changes with age in a predictable way, so it can be used to estimate a person's age. Methylation data has many more features (CpG sites) than samples, so ordinary linear regression cannot be fitted well and shrinkage methods are needed. I compare ridge, lasso and the Bayesian lasso (Blasso). Which one predicts age best and does keeping only a few sites (lasso) help or not? The error is measured in years on samples the models have not seen.
