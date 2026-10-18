@@ -1,4 +1,4 @@
-# Predicting age from DNA methylation: ridge vs lasso
+# Predicting age from DNA methylation
 
 Course project for BERN02 (Computational Science: Reproducible Data Science and Statistical Learning), Lund University.
 
